@@ -3,7 +3,7 @@
   "name": "AdGuard Home Custom",
   "codeowners": ["@arreis94"],
   "config_flow": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/arreis94/adguardhome_custom",
   "integration_type": "service",
   "iot_class": "local_polling",
