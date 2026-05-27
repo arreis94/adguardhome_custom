@@ -1,0 +1,5 @@
+{
+  "name": "AdGuard Home Extended",
+  "type": "integration",
+  "iot_class": "local_polling"
+}
