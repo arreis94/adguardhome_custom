@@ -2,7 +2,7 @@
 
 import logging
 
-DOMAIN = "adguard"
+DOMAIN = "adguardhome_custom"
 
 LOGGER = logging.getLogger(__package__)
 
